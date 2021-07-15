@@ -3,8 +3,14 @@
 
 *Basic Usage*
 -----------
-get a http + https proxy list and paste it to proxies.txt &
+get some http + https proxies from https://hidemy.name/de/proxy-list/ and paste it to proxies.txt
+
 edit url in urls and hit run
+
+```python
+urls = ["https://httpbin.org/ip", "https://nordvpn.com"]
+
+```
 
 *DONE!*
 
